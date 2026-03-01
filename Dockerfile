@@ -1,4 +1,4 @@
-FROM maven:3.8.4-jdk-8 AS build
+FROM maven:3.8.4-jdk-17 AS build
 
 # Copia apenas o pom primeiro para aproveitar o cache das dependências
 COPY pom.xml /app/
